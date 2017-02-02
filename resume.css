@@ -1,0 +1,82 @@
+@import 'https://fonts.googleapis.com/css?family=Open+Sans:300,700';
+
+html {
+    /*font-family: 'Questrial', sans-serif !important;*/
+    padding: 0;
+    margin: 0;
+}
+body {
+    font-family: 'Open Sans', sans-serif !important;
+    padding: 10px;
+    font-size: 100% !important;
+}
+body h1, body h2, body h3, body h4, body h5, body h6 {
+    padding: 0;
+    margin: 0;
+}
+
+td {
+    vertical-align: text-top;
+    padding: 5px !important;
+}
+
+td:last-child {
+    border-left-width: 10px;
+    border-left-style: solid;
+    border-left-color: black;
+}
+
+td:first-child {
+    width: 20%;
+}
+
+td:first-child h2 {
+    font-size: 1.5em;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+#contact ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#skills span{
+  display: block;
+}
+
+#skills span.advLang {
+  font-size: 1.6em;
+}
+#skills span.proLang {
+  font-size: 1.5em;
+}
+#skills span.verCont {
+  font-size: 1.4em;
+}
+#skills span.devTools {
+  font-size: 1.3em;
+}
+#skills span.ide {
+  font-size: 1.2em;
+}
+#skills span.os {
+  font-size: 1.2em;
+}
+
+
+.title {
+    font-weight: bold;
+}
+.location {
+    font-style: italic;
+}
+
+#experience ul {
+    list-style-type: square;
+    padding: 0 15px;
+}
+
+h3, h4, h5 {
+    margin: 2px 0 !important;
+}

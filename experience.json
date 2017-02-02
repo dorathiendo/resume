@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Web Developer",
+    "companyName": "Macys.com",
+    "location": "San Francisco, CA",
+    "date": "Aug 2015 - Current",
+    "work": [
+      "Created, tested, and maintained UI for internal web applications",
+      "Developed UI using HTML5, CSS3, Javascript, JQuery",
+      "Used web development technologies and frameworks such as BackboneJs, RequireJS, HandlebarsJS, ReactJS, BootstrapJS, RESTful, Hibernate, NodeJs, AngularJs",
+      "Worked in an Agile environment and collaborated with other developers, QA engineers, product managers",
+      "Practiced Object-Oriented design"
+    ]
+  },
+  {
+    "title": "Software Engineering Intern",
+    "companyName": "Cepheid Inc",
+    "location": "San Francisco, CA",
+    "date": "Nov 2014 – Mar 2015",
+    "work": [
+      "Tested new features of main application for both front-end and back-end",
+      "Fixed main application UI bugs",
+      "Created new feature documentation for end users",
+      "Created new feature test requirements for QA"
+    ]
+  },
+  {
+    "title": "Software Engineering Intern",
+    "companyName": "Macys.com",
+    "location": "San Francisco, CA",
+    "date": "Jun 2014 – Aug 2014",
+    "work": [
+      "Created Junit/DBUnit tests using RESTful Web services to gest Stella’s back-end",
+      "Implemented GUI for Treasure Hunt mobile app using Android SDK and mobile web app using JavaScript, HTML, CSS",
+      "Generated test cases for Treasure Hunt that led to discovery of critical bugs"
+    ]
+  },
+  {
+    "title": "Web Developer",
+    "companyName": "Macys.com",
+    "location": "San Francisco, CA",
+    "date": "Aug 2015 - Current",
+    "work": [
+      "Assisted in creating Vital Boolean Logic software to control railway traffic systems",
+      "Maintained deployment of software",
+      "Ran batch tests on newly built software",
+      "Assisted CAD group with control line",
+      "Back-checked railway schema for documentation"
+    ]
+  }
+]
